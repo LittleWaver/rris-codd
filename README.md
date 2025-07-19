@@ -85,10 +85,10 @@ conda activate rris-codd
      └── raw
          └── pretrained
      		└── bert-base-uncased
-                      ├── bpe_simple_vocab_16e6.txt.gz
-                      ├── config.json
-                      ├── pytorch_model.bin
-                      └── vocab.txt
+     			├── bpe_simple_vocab_16e6.txt.gz
+     			├── config.json
+     			├── pytorch_model.bin
+     			└── vocab.txt
      ```
 
 4.   pretrained Swin Transformer.
@@ -99,9 +99,9 @@ conda activate rris-codd
      ``` shell
      rris-codd
      └── raw
-         	├── pretrained
-          └── swin-base
-          └── swin_base_patch4_window12_384_22k.pth
+     	├── pretrained
+     	├── swin-base
+     	└── swin_base_patch4_window12_384_22k.pth
      ```
 
 
