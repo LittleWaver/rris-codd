@@ -1,0 +1,26 @@
+# 忽略各种图像和模型文件
+**/*.jpg
+**/*.jpeg
+**/*.png
+**/*.bmp
+**/*.pth
+**/*.pt
+**/*.ckpt
+**/*.onnx
+**/*.weights
+**/*.bin
+
+# Python 编译文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 原始资料与输出目录
+/output/
+/raw/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+.idea/
