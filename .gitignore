@@ -17,7 +17,6 @@ __pycache__/
 *.pyd
 
 # 原始资料与输出目录
-/output/
 /raw/
 
 # 系统文件
